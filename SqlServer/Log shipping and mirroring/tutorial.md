@@ -7,3 +7,4 @@ https://www.sqlshack.com/?s=log%20shipping
 2.Mirroring: 
 https://www.mssqltips.com/sql-server-tip-category/64/database-mirroring/
 https://www.sqlshack.com/create-database-mirroring/
+
