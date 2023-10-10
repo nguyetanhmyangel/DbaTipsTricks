@@ -1,0 +1,1 @@
+* https://www.techbrothersit.com/2014/12/sql-server-dba-tutorial.html
